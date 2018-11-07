@@ -57,6 +57,11 @@ $ tree
 │ ...
 ```
 
+## Related
+
+- [copy-to-range-cli](https://github.com/hutsoninc/copy-to-range-cli) - CLI for this module
+- [make-dir-range](https://github.com/hutsoninc/make-dir-range) - Make directories from a range of integers
+
 ## Authors
 
 * **Austin Gordon** - *Development* - [GitHub](https://github.com/AustinLeeGordon)
