@@ -1,0 +1,43 @@
+{
+  "name": "copy-to-range",
+  "version": "1.0.0",
+  "description": "Copy files to a range of directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cp",
+    "copy",
+    "file",
+    "files",
+    "integer",
+    "range",
+    "loop",
+    "dir",
+    "dirs",
+    "directory",
+    "directories",
+    "folder",
+    "folders",
+    "fs",
+    "filesystem",
+    "file-system"
+  ],
+  "author": {
+    "name": "Austin Gordon",
+    "email": "agordon@hutsoninc.com",
+    "url": "https://github.com/AustinLeeGordon"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/copy-to-int-range"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "make-dir-range": "^1.0.2",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  }
+}
