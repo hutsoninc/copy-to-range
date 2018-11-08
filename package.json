@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hutsoninc/copy-to-int-range"
+    "url": "https://github.com/hutsoninc/copy-to-range"
   },
   "devDependencies": {
     "jest": "^23.6.0",
