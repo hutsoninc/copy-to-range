@@ -1,6 +1,6 @@
 {
   "name": "copy-to-range",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Copy files to a range of directories.",
   "main": "index.js",
   "scripts": {
