@@ -36,8 +36,12 @@
   },
   "devDependencies": {
     "jest": "^23.6.0",
-    "make-dir-range": "^1.0.2",
+    "make-dir-range": "^1.0.3",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.6.2"
+  },
+  "dependencies": {
+    "rangify-string": "^1.0.1",
+    "valid-filename": "^2.0.1"
   }
 }
